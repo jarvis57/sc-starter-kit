@@ -1,0 +1,20 @@
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build
+artifacts
+cache
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Generated typechain
+typechain
+
+# OS file
+.DS_Store
+
+.env
+
+.vscode
