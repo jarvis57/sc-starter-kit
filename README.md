@@ -6,6 +6,12 @@ Starter kit for smart contracts.
 
 We use `yarn` as the package manager. You may use `npm` and `npx` instead, but commands in bash scripts may have to be changed accordingly.
 
+## Stack
+
+* hardhat
+* ethers.js
+* Waffle
+
 ## Setup
 
 1. Clone this repo
